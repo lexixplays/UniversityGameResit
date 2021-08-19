@@ -1,0 +1,16 @@
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\bin\Debug\netcoreapp3.1\The_Mutants.exe
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\bin\Debug\netcoreapp3.1\The_Mutants.deps.json
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\bin\Debug\netcoreapp3.1\The_Mutants.runtimeconfig.json
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\bin\Debug\netcoreapp3.1\The_Mutants.runtimeconfig.dev.json
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\bin\Debug\netcoreapp3.1\The_Mutants.dll
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\bin\Debug\netcoreapp3.1\The_Mutants.pdb
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\obj\Debug\netcoreapp3.1\The_Mutants.csproj.AssemblyReference.cache
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\obj\Debug\netcoreapp3.1\The_Mutants.Level_1.resources
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\obj\Debug\netcoreapp3.1\The_Mutants.Properties.Resources.resources
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\obj\Debug\netcoreapp3.1\The_Mutants.csproj.GenerateResource.cache
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\obj\Debug\netcoreapp3.1\The_Mutants.AssemblyInfoInputs.cache
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\obj\Debug\netcoreapp3.1\The_Mutants.AssemblyInfo.cs
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\obj\Debug\netcoreapp3.1\The_Mutants.csproj.CoreCompileInputs.cache
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\obj\Debug\netcoreapp3.1\The_Mutants.dll
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\obj\Debug\netcoreapp3.1\The_Mutants.pdb
+C:\Users\Athen\Documents\University\CIS4008_T2_20\Assignment\The_Mutants\The_Mutants\obj\Debug\netcoreapp3.1\The_Mutants.genruntimeconfig.cache
